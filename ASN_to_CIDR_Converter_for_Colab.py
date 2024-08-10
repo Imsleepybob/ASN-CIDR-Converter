@@ -4,7 +4,7 @@ import json
 from ipaddress import ip_network, summarize_address_range, ip_address
 from google.colab import files
 
-# Upload ipinfo dataset JSON file
+# Upload ipinfo dataset JSON (.gz) file
 uploaded = files.upload()
 
 file_name = list(uploaded.keys())[0]

@@ -8,6 +8,7 @@ This project is released under the MIT License.
 
 ## Attribution
 
+**Attention: When using the IPinfo dataset, it is required to comply with the copyright attribution guidelines set by IPinfo.**
 This project uses data from IPinfo. The data is released under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You must provide appropriate attribution, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 ## How to Attribute IPinfo
